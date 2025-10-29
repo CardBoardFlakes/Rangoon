@@ -1,4 +1,4 @@
-const sigils = ["Rangoon", "🦝", "🔥", "Peak", "YOU CAN FLY???", "#FreeRangoon", "Lamski?", "The Death Ray", "ultrafent", "Bazinga", "150", "Sonic the headgehog is a bamf"];
+const sigils = ["Rangoon", "🦝", "🔥", "Peak", "YOU CAN FLY???", "#FreeRangoon", "Lamski?", "The Death Ray", "ultrafent", "Bazinga", "150", "Sonic the headgehog is a bamf", "Crissy"];
 
 let sigilContainer = document.querySelector(".sigils-container");
 if (!sigilContainer) {
